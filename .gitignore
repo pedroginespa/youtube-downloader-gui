@@ -1,0 +1,19 @@
+# Entornos virtuales y Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+
+# Compilación y empaquetado
+build/
+dist/
+
+# Descargas de usuario (audio / video descargados)
+descargas/
+
+# Archivos de sistema y editores
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+*.log
